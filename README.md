@@ -13,4 +13,6 @@ Anyone who signed in can add post or reply to other post.
 Anyone can edit their posts only and can delete any comment on their posts only.
 - Sell something:
 Anyone who has a commercial register can sell on the site.
+- provide a service: 
+Anyone who wants to provide a service to another user can do so
 
